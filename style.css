@@ -1,8 +1,8 @@
-*{
+* {
     margin: 3rem;
 }
 
-body{
+body {
     background-color: rgb(210, 191, 228);
     color: rgb(32, 28, 28);
     font-weight: bold;
@@ -10,4 +10,5 @@ body{
     border: 1px solid black;
     padding: 2rem;
     border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
